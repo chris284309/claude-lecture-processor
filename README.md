@@ -2,6 +2,8 @@
 
 Transform lecture transcripts into structured knowledge using Claude Code.
 
+![Lecture Processing Pipeline](lecture-pipeline.gif)
+
 ## What It Does
 
 The `/lecture` command processes lecture transcripts through a complete pipeline:
